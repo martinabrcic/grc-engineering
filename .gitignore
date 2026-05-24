@@ -7,8 +7,7 @@ terraform.tfstate.*
 tfplan
 
 # Terraform directories
-.terraform/
-
+.terraform
 # Terraform lock file (optional - usually committed)
 # .terraform.lock.hcl
 
