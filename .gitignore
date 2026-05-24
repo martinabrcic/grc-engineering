@@ -1,0 +1,18 @@
+# Terraform state files
+terraform.tfstate
+terraform.tfstate.*
+
+# Terraform plan files
+*.tfplan
+tfplan
+
+# Terraform directories
+.terraform/
+
+# Terraform lock file (optional - usually committed)
+# .terraform.lock.hcl
+
+# Local development
+.DS_Store
+*.swp
+*.swo
